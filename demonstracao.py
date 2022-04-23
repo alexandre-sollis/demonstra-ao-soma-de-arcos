@@ -1,4 +1,3 @@
-from multiprocessing.reduction import DupFd
 from manimlib import *
 
 class Demonstracao_soma_arcos(Scene):
